@@ -1,4 +1,4 @@
-grunt-frontend-starter
+Grunt frontend starter
 ======================
 
-A Base grunt for Frondend
+A Base grunt for Frontend
